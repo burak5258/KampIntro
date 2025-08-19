@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             
-            String atagoriEtiketi = "kategori";
+            String katagoriEtiketi = "kategori";
             int ogrencisayısı = 32000;
             double faizoranı = 1.45;
             bool sistemeGirişYapmışMı = false; //javada boolion diye yazılır
